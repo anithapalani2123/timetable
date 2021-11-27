@@ -133,10 +133,7 @@ httpd.serve_forever()
  ![CLIENTSIDEOUTPUT](./clientsidess.png![clientside ss](https://user-images.githubusercontent.com/94184990/143673541-fd97e88e-050c-4440-9f10-4041a1ad6402.PNG)
 )
  ### SERVER SIDE OUTPUT:
- ![SERVERSIDEOUTPUT](./serversidess.png)
- ![SERVERSIDEOUTPUT](./serverside3ss.png)
- ![SERVERSIDEOUTPUT](./serverside1ss.png)
- ![SERVERSIDEOUTPUT](./serverside4ss.png)
+
 
  ![SERVERSIDEOUTPUT](./serversidess.png![serverside ss](https://user-images.githubusercontent.com/94184990/143673618-c004a371-b3e3-4471-9443-2315eca5c38a.PNG)
 )
