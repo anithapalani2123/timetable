@@ -124,14 +124,14 @@ class myhandler(BaseHTTPRequestHandler):
 server_address = ('',8080)
 httpd = HTTPServer(server_address,myhandler)
 print("my webserver is running...")
-httpd.serve_forever() ```
-# OUPUT
-### CLIENT SIDE OUTPUT:
-![CLIENTSIDEOUTPUT](./clientsidess.png)
-
-### SERVER SIDE OUTPUT:
-![SERVERSIDEOUTPUT](./serversidess.png)
-![SERVERSIDEOUTPUT](./serverside3ss.png)
-![SERVERSIDEOUTPUT](./serverside1ss.png)
-![SERVERSIDEOUTPUT](./serverside2ss.png)
+httpd.serve_forever() 
+```
+ # OUPUT
+ ### CLIENT SIDE OUTPUT:
+ ![CLIENTSIDEOUTPUT](./clientsidess.png)
+ ### SERVER SIDE OUTPUT:
+ ![SERVERSIDEOUTPUT](./serversidess.png)
+ ![SERVERSIDEOUTPUT](./serverside3ss.png)
+ ![SERVERSIDEOUTPUT](./serverside1ss.png)
+ ![SERVERSIDEOUTPUT](./serverside2ss.png)
 
