@@ -23,8 +23,8 @@ content = """
 	<title>time table</title>
 </head>
 <body>
-
-<table border>
+    <img src="logo.jpg" width="700" height="100">
+    <table border>
 	<head>
 		<tr>
 			<th colspan="8">TIME TABLE</th>
