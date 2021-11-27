@@ -143,5 +143,7 @@ httpd.serve_forever()
  ![SERVERSIDEOUTPUT](./serverside1ss.png![serverside1 ss](https://user-images.githubusercontent.com/94184990/143673594-97f8f7d8-11d4-4db6-a941-9b8dc93284b4.PNG)
 )
  ## Result
+ Thus, a html webpage is created to display the timetable
+
  
 
