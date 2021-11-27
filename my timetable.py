@@ -8,7 +8,7 @@ content = """
 	<title>time table</title>
 </head>
 <body>
-	<table border>
+<table border>
 	<head>
 		<tr>
 			<th colspan="8">TIME TABLE</th>
