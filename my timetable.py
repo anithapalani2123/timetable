@@ -1,23 +1,8 @@
-# Experiment_Time_Table
-
-## AIM
-To Write a html webpage page to display  your timetable
-
-# ALGORITHM
-### STEP 1
-create a simple table using table tag
-### STEP 2
-Add header row using th tag
-### STEP 3
-Add your timetable
-### STEP 4
-Execute the program
-
-# CODE
 from http.server import HTTPServer, BaseHTTPRequestHandler
 content = """
 <<doctype!>
-<html><head>
+<html>
+<head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<title>time table</title>
@@ -96,7 +81,9 @@ content = """
 			<td>Web Technology Laboratory</td>
 			<td>Web Technology Laboratory</td>
 		</tr>  
-		</body></table>
+		
+
+	</body></table>
 	<ol>
 		<li>19AI401	Fundamentals of Web Technology</li>
 		<li>19MA221	Linear Algebra Laboratory</li>
@@ -116,13 +103,12 @@ content = """
 """
 class myhandler(BaseHTTPRequestHandler):
     def do_GET(self):
-         print("request received")
-         self.send_response(200)
-         self.send_header('content-type', 'text/html; charset=utf-8')
-         self.end_headers()
-         self.wfile.write(content.encode())
+        print("request received")
+        self.send_response(200)
+        self.send_header('content-type', 'text/html; charset=utf-8')
+        self.end_headers()
+        self.wfile.write(content.encode())
 server_address = ('',8080)
 httpd = HTTPServer(server_address,myhandler)
 print("my webserver is running...")
 httpd.serve_forever()
-# OUPUT
