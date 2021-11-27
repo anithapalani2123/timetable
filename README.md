@@ -1,7 +1,7 @@
 # Experiment_Time_Table
 
 ## AIM
-To Write a html webpage page to display  my timetable
+To Write a html webpage page to display  your timetable
 
 # ALGORITHM
 ### STEP 1
