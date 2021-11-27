@@ -14,7 +14,7 @@ Add your timetable
 Execute the program
 
 # CODE
-from http.server import HTTPServer, BaseHTTPRequestHandler
+```from http.server import HTTPServer, BaseHTTPRequestHandler
 content = """
 <<doctype!>
 <html><head>
@@ -124,7 +124,7 @@ class myhandler(BaseHTTPRequestHandler):
 server_address = ('',8080)
 httpd = HTTPServer(server_address,myhandler)
 print("my webserver is running...")
-httpd.serve_forever()
+httpd.serve_forever() ```
 # OUPUT
 ### CLIENT SIDE OUTPUT:
 ![CLIENTSIDEOUTPUT](./clientsidess.png)
