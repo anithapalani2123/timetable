@@ -23,7 +23,12 @@ content = """
 	<title>time table</title>
 </head>
 <body>
+<<<<<<< HEAD
     <img src="logo.png" width="700" height="100">
+=======
+    <img src="logo.jpg" width="700" height="100"![logo](https://user-images.githubusercontent.com/94184990/143685601-c91757c3-8532-47e6-ac93-d4650ce19d91.png)
+>
+>>>>>>> df464ed7c947926c79978fe977fd692347f27834
     <table border>
 	<head>
 		<tr>
@@ -132,10 +137,7 @@ httpd.serve_forever()
  ![CLIENTSIDEOUTPUT](./clientsidess.png![clientside ss](https://user-images.githubusercontent.com/94184990/143673541-fd97e88e-050c-4440-9f10-4041a1ad6402.PNG)
 )
  ### SERVER SIDE OUTPUT:
- ![SERVERSIDEOUTPUT](./serversidess.png)
- ![SERVERSIDEOUTPUT](./serverside3ss.png)
- ![SERVERSIDEOUTPUT](./serverside1ss.png)
- ![SERVERSIDEOUTPUT](./serverside4ss.png)
+
 
  ![SERVERSIDEOUTPUT](./serversidess.png![serverside ss](https://user-images.githubusercontent.com/94184990/143673618-c004a371-b3e3-4471-9443-2315eca5c38a.PNG)
 )
