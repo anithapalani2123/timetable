@@ -23,7 +23,8 @@ content = """
 	<title>time table</title>
 </head>
 <body>
-    <img src="logo.png" width="700" height="100">
+    <img src="logo.png" width="700" height="100"![logo](https://user-images.githubusercontent.com/94184990/143685973-3d865a11-d83f-4ac6-bf0d-a7db628c47e1.png)
+>
     <table border>
 	<head>
 		<tr>
