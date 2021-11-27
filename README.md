@@ -137,6 +137,5 @@ httpd.serve_forever()
 )
  ![SERVERSIDEOUTPUT](./serverside1ss.png![serverside1 ss](https://user-images.githubusercontent.com/94184990/143673594-97f8f7d8-11d4-4db6-a941-9b8dc93284b4.PNG)
 )
- ![SERVERSIDEOUTPUT](./serverside2ss.png![serverside2ss](https://user-images.githubusercontent.com/94184990/143673832-526a894a-98f0-4248-9444-3464bc2a8f27.PNG)
-)
+ 
 
