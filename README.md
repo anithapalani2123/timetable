@@ -14,17 +14,16 @@ Add your timetable
 Execute the program
 
 # CODE
-```from http.server import HTTPServer, BaseHTTPRequestHandler
-content = """
-<<doctype!>
-<html><head>
+```<<doctype!>
+<html>
+<head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<title>time table</title>
 </head>
 <body>
-    <img src="logo.png" width="700" height="100"![logo](https://user-images.githubusercontent.com/94184990/143685973-3d865a11-d83f-4ac6-bf0d-a7db628c47e1.png)
-    <table border>
+	<img src="logo.png" width="700" height="100">
+	<table border>
 	<head>
 		<tr>
 			<th colspan="8">TIME TABLE</th>
@@ -114,18 +113,6 @@ content = """
 </body>
 </html>
 
-"""
-class myhandler(BaseHTTPRequestHandler):
-    def do_GET(self):
-         print("request received")
-         self.send_response(200)
-         self.send_header('content-type', 'text/html; charset=utf-8')
-         self.end_headers()
-         self.wfile.write(content.encode())
-server_address = ('',8080)
-httpd = HTTPServer(server_address,myhandler)
-print("my webserver is running...")
-httpd.serve_forever() 
 ```
  # OUPUT
  ### CLIENT SIDE OUTPUT:
