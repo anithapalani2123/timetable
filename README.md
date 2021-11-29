@@ -116,17 +116,14 @@ Execute the program
 ```
  # OUPUT
  ### CLIENT SIDE OUTPUT:
- ![CLIENTSIDEOUTPUT](./clientsidess.png![clientside ss](https://user-images.githubusercontent.com/94184990/143673541-fd97e88e-050c-4440-9f10-4041a1ad6402.PNG)
-)
+ ![CLIENTSIDEOUTPUT](./mytimetableoutput)
  ### SERVER SIDE OUTPUT:
 
 
- ![SERVERSIDEOUTPUT](./serversidess.png![serverside ss](https://user-images.githubusercontent.com/94184990/143673618-c004a371-b3e3-4471-9443-2315eca5c38a.PNG)
-)
- ![SERVERSIDEOUTPUT](./serverside3ss.png![serverside 3 ss](https://user-images.githubusercontent.com/94184990/143673582-fb72e028-efaa-4fac-be42-02b088db6e7c.png)
-)
- ![SERVERSIDEOUTPUT](./serverside1ss.png![serverside1 ss](https://user-images.githubusercontent.com/94184990/143673594-97f8f7d8-11d4-4db6-a941-9b8dc93284b4.PNG)
-)
+ ![SERVERSIDEOUTPUT](./output1.png)
+ ![SERVERSIDEOUTPUT](./output2.png)
+ ![SERVERSIDEOUTPUT](./output3.png)
+
  ## Result
  Thus, a html webpage is created to display the timetable
 
