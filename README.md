@@ -135,8 +135,6 @@ Execute the program
 
  ) ![SERVERSIDEOUPUT](./validator.png)
 
- ) ![SERVERSIDEOUPUT](./validator![validator](https://user-images.githubusercontent.com/94184990/144337505-baf275b6-50b8-4a79-8b33-70d434688ae3.PNG)
-)
 
 
 
