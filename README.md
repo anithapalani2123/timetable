@@ -132,7 +132,7 @@ Execute the program
  ![SERVERSIDEOUTPUT](./output2.png![output 2](https://user-images.githubusercontent.com/94184990/143907399-05b916dc-fcf6-4d16-9974-1ecd81078051.PNG)
 )
  ![SERVERSIDEOUTPUT](./output3.png![output 3](https://user-images.githubusercontent.com/94184990/143907440-4f0df19a-6596-47b6-8a9b-10d83449d945.PNG)
- ) ![SERVERSIDEOUPUT](./validator)
+ ) ![SERVERSIDEOUPUT](./validator.png)
 
 
  ## Result
