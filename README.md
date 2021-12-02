@@ -122,10 +122,7 @@ Execute the program
 
 
 
- ![SERVERSIDEOUTPUT](./output1.png)
- ![SERVERSIDEOUTPUT](./output2.png)
- ![SERVERSIDEOUTPUT](./output3.png)
- ![SERVERSIDEOYTPUT](./validator.png)
+ 
 
  ![SERVERSIDEOUTPUT](./output1.png![output 1](https://user-images.githubusercontent.com/94184990/143907366-6c2e907f-59df-4764-847f-e01f48ea66ce.PNG)
 )
