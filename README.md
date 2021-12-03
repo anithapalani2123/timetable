@@ -115,15 +115,13 @@ Execute the program
 
 ```
  # OUPUT
- ### CLIENT SIDE OUTPUT:
-
- ![CLIENTSIDEOUTPUT](./output.png)
-
-
+ ### CLIENT SIDE OUTPUT: 
+![CLIENTSIDEOUTPUT](./output.png)
  ### SERVER SIDE OUTPUT:
+ ![SERVERSIDEOUTPUT](./validator.png)
 
 
- ![SERVERSIDEOUPUT](./validator.png)
+ 
 
  
  ## Result
