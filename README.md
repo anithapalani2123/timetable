@@ -125,14 +125,8 @@ Execute the program
 
 <<<<<<< HEAD
  ![SERVERSIDEOUPUT](./validator.png)
-=======
- ) ![SERVERSIDEOUPUT](./validator.png![validator](https://user-images.githubusercontent.com/94184990/144542021-12590b98-9257-47be-b1f4-da67026b952c.PNG)
-)
->>>>>>> b7761d9a1e93353fbd3b3ef431a16c154c5af5c8
 
-
-
-
+ 
  ## Result
  Thus, a html webpage is created to display the timetable
 
