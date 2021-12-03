@@ -114,14 +114,13 @@ Execute the program
 </html>
 
 ```
- # OUPUT
+ ## OUTPUT
  ### CLIENT SIDE OUTPUT: 
 ![CLIENTSIDEOUTPUT](./output.png)
+
+
  ### SERVER SIDE OUTPUT:
  ![SERVERSIDEOUTPUT](./validator.png)
-
-
- 
 
  
  ## Result
