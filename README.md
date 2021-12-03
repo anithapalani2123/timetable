@@ -116,11 +116,14 @@ Execute the program
 ```
  ## OUTPUT
  ### CLIENT SIDE OUTPUT: 
-![CLIENTSIDEOUTPUT](./output.png)
+![CLIENTSIDEOUTPUT](./output.png![output](https://user-images.githubusercontent.com/94184990/144627366-fc34dcc7-514b-47c3-af46-bbc160a015a4.PNG)
+)
 
 
  ### SERVER SIDE OUTPUT:
- ![SERVERSIDEOUTPUT](./validator.png)
+ ![SERVERSIDEOUTPUT](./validator.png![validator](https://user-images.githubusercontent.com/94184990/144627444-c92c0b34-06aa-4851-a52f-7ad8d22b362b.PNG)
+)
+
 
  
  ## Result
