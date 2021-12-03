@@ -117,13 +117,15 @@ Execute the program
  # OUPUT
  ### CLIENT SIDE OUTPUT:
 
- ![CLIENTSIDEOUTPUT](./output.png)
+ ![CLIENTSIDEOUTPUT](./output.png![output](https://user-images.githubusercontent.com/94184990/144542798-9845679b-a327-499a-966d-64ee2823226b.PNG))
+
 
 
  ### SERVER SIDE OUTPUT:
 
 
- ![SERVERSIDEOUPUT](./validator.png)
+ ![SERVERSIDEOUPUT](./validator.png![validator](https://user-images.githubusercontent.com/94184990/144542842-a71318cb-3137-4300-88d9-ead421bae8c6.PNG)
+)
 
  
  ## Result
