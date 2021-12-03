@@ -116,21 +116,14 @@ Execute the program
 ```
  # OUPUT
  ### CLIENT SIDE OUTPUT:
- ![CLIENTSIDEOUTPUT](./mytimetableoutput![mytimetable output](https://user-images.githubusercontent.com/94184990/143907323-2142979a-dff1-4d98-a986-2800605de739.PNG)
-)
+
+ ![CLIENTSIDEOUTPUT](./output.png)
+
+
  ### SERVER SIDE OUTPUT:
 
 
-
- 
-
- ![SERVERSIDEOUTPUT](./output1.png![output 1](https://user-images.githubusercontent.com/94184990/143907366-6c2e907f-59df-4764-847f-e01f48ea66ce.PNG)
-)
- ![SERVERSIDEOUTPUT](./output2.png![output 2](https://user-images.githubusercontent.com/94184990/143907399-05b916dc-fcf6-4d16-9974-1ecd81078051.PNG)
-)
- ![SERVERSIDEOUTPUT](./output3.png![output 3](https://user-images.githubusercontent.com/94184990/143907440-4f0df19a-6596-47b6-8a9b-10d83449d945.PNG)
-
- ) ![SERVERSIDEOUPUT](./validator.png)
+ ![SERVERSIDEOUPUT](./validator.png)
 
 
 
