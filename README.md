@@ -123,7 +123,6 @@ Execute the program
  ### SERVER SIDE OUTPUT:
 
 
-<<<<<<< HEAD
  ![SERVERSIDEOUPUT](./validator.png)
 
  
