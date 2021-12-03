@@ -116,10 +116,13 @@ Execute the program
 ```
  ## OUTPUT
  ### CLIENT SIDE OUTPUT: 
+
 ![CLIENTSIDEOUTPUT](./output.png)
 
 
  ### SERVER SIDE OUTPUT:
+
+ 
  ![SERVERSIDEOUTPUT](./validator.png)
 
  
