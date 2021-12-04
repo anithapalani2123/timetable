@@ -118,7 +118,8 @@ Execute the program
  ### CLIENT SIDE OUTPUT: 
 
 
-![CLIENTSIDEOUTPUT](./output.png)
+![CLIENTSIDEOUTPUT](./output.png![output](https://user-images.githubusercontent.com/94184990/144696704-ccfd4f0c-c0ca-4e00-811e-e7222b8aab5f.PNG)
+)
 
 
 
@@ -127,7 +128,8 @@ Execute the program
 
 
 
- ![SERVERSIDEOUTPUT](./validator.png)
+ ![SERVERSIDEOUTPUT](./validator.png![validator](https://user-images.githubusercontent.com/94184990/144696708-762bbfd4-f718-45a3-9c25-cd1343353298.PNG)
+)
 
 
  
