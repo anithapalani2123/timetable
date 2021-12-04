@@ -118,7 +118,7 @@ Execute the program
  ### CLIENT SIDE OUTPUT: 
 
 
-![CLIENTSIDEOUTPUT](./output.png)
+![CLIENTSIDEOUTPUT](./output.PNG)
 
 
 
@@ -127,7 +127,7 @@ Execute the program
 
 
 
- ![SERVERSIDEOUTPUT](./validator.png)
+ ![SERVERSIDEOUTPUT](./validator.PNG)
 
 
  
