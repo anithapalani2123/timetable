@@ -117,17 +117,11 @@ Execute the program
  ## OUTPUT
  ### CLIENT SIDE OUTPUT: 
 
-
 ![CLIENTSIDEOUTPUT](./output.PNG)
-
-
-
 
  ### SERVER SIDE OUTPUT:
 
-
-
- ![SERVERSIDEOUTPUT](./validator.PNG)
+![SERVERSIDEOUTPUT](./validator.PNG)
 
 
  
