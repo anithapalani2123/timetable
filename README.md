@@ -117,14 +117,14 @@ Execute the program
  ## OUTPUT
  ### CLIENT SIDE OUTPUT: 
 
-![CLIENTSIDEOUTPUT](./web.png![web](https://user-images.githubusercontent.com/94184990/144629113-1d6542b0-1819-4414-a66a-61bcf982ec6c.PNG)
+![CLIENTSIDEOUTPUT](./output.png![web](https://user-images.githubusercontent.com/94184990/144629113-1d6542b0-1819-4414-a66a-61bcf982ec6c.PNG)
 )
 
 
  ### SERVER SIDE OUTPUT:
 
 
- ![SERVERSIDEOUTPUT](./valid.png![valid](https://user-images.githubusercontent.com/94184990/144629211-8430f729-eea0-446d-b273-c6cdce0b00a2.PNG)
+ ![SERVERSIDEOUTPUT](./validator.png![valid](https://user-images.githubusercontent.com/94184990/144629211-8430f729-eea0-446d-b273-c6cdce0b00a2.PNG)
 )
 
 
